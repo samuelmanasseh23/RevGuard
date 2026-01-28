@@ -1,0 +1,4 @@
+customer_id,customer_name,region,plan,join_date,last_active_date
+C001,Apex Corp,India,Pro,2023-01-12,2024-12-15
+C002,ZenSoft,US,Basic,2023-06-01,2024-10-02
+C003,NovaTech,India,Enterprise,2022-11-20,2024-12-28

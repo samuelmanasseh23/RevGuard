@@ -1,0 +1,4 @@
+usage_id,customer_id,feature,usage_hours,usage_date
+U001,C001,Analytics,35,10-12-2024
+U002,C002,Analytics,2,28-11-2024
+U003,C003,Advanced_AI,120,18-12-2024

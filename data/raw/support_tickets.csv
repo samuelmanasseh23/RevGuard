@@ -1,0 +1,3 @@
+ticket_id,customer_id,issue_type,resolution_time_hours,created_date
+ST001,C002,Billing,72,2024-11-20
+ST002,C001,Feature_Request,12,2024-12-05

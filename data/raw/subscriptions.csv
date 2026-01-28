@@ -1,0 +1,4 @@
+subscription_id,customer_id,plan,monthly_price,start_date,status
+S001,C001,Pro,1999,2023-01-12,Active
+S002,C002,Basic,499,2023-06-01,Active
+S003,C003,Enterprise,4999,2022-11-20,Active

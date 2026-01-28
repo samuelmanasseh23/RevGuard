@@ -1,0 +1,4 @@
+transaction_id,customer_id,payment_date,amount,status
+T001,C001,2024-12-01,1999,Success
+T002,C002,2024-12-01,499,Failed
+T003,C003,2024-12-01,4999,Success
